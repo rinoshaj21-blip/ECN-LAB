@@ -25,8 +25,9 @@
 
 **CIRCUIT DIAGRAM:**
 
-<img width="793" height="1280" alt="image" src="https://github.com/user-attachments/assets/84482da4-1962-43ac-9a96-fd4d555260b7" />
-<img width="832" height="1280" alt="image" src="https://github.com/user-attachments/assets/702c70ca-37cc-439f-9233-6d6a219a07b5" />
+<img width="793" height="1280" alt="image" src="https://github.com/user-attachments/assets/aa1ffa8f-6bbb-4e1e-9d0e-fa05ff683372" />
+<img width="832" height="1280" alt="image" src="https://github.com/user-attachments/assets/49e768cf-9ebc-46f3-9180-d4312b4d9d1b" />
+
 
 **PROCEDURE:**
 
